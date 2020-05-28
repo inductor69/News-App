@@ -1,2 +1,2 @@
 # News-App
-A flutter based news app with beautiful UI.
+A kotlin based news app with beautiful UI.
